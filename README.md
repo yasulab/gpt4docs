@@ -1,5 +1,7 @@
 # gpt4docs
-Can a generative AI automate tech contents translation? This repository tries to make it clear and tries to show you how much money we need to automate and how much sales we need to get the generated contents in order to run the whole system sustainably.
+_**"Can a generative AI automate tech contents translation?"**_
+
+This repository tries to make it clear and tries to show you how much money we need to automate and how much sales we need to get from the generated contents in order to run the whole system sustainably. ♻️✨
 
 ## Sample files for PoC
 
