@@ -1,4 +1,4 @@
-# gpt-for-docs
+# gpt4docs
 Proof of Concept: Can the generative AI automate tech contents translation?
 
 ## Sample files for PoC
