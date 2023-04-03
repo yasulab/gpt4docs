@@ -19,5 +19,8 @@ Sample files below are fetched from [:octocat: yasslab/railsguides.jp](https://g
 - [:octocat: yasulab/gpt-linter](https://github.com/yasulab/gpt-linter) (GPT-4 to support [Mitou Junior](https://github.com/mitou/jr.mitou.org) creators)
 - [:octocat: yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 
-## Most Recent Project (PR)
+<br>
+
+## Other links (PR)
 - [:octocat: yasulab/ipa2warp](https://github.com/yasulab/ipa2warp) (Just make GPT-4 output codes to support IPA for missing-link problems)
+- [:octocat: @yasulab](https://github.com/yasulab)'s ranking at [commits.top in Japan](https://commits.top/japan.html), Most active GitHub users in Japan.
