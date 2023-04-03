@@ -23,4 +23,4 @@ Sample files below are fetched from [:octocat: yasslab/railsguides.jp](https://g
 
 ## Other links (PR)
 - [:octocat: yasulab/ipa2warp](https://github.com/yasulab/ipa2warp) (Just make GPT-4 output codes to support IPA for missing-link problems)
-- [:octocat: @yasulab](https://github.com/yasulab)'s ranking at [commits.top in Japan](https://commits.top/japan.html), *most active GitHub users in Japan.*
+- [:octocat: @yasulab](https://github.com/yasulab)'s ranking at [commits.top in Japan](https://commits.top/japan.html#:~:text=yasulab), *most active GitHub users in Japan.*
