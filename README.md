@@ -3,7 +3,7 @@ _**"Can a generative AI automate tech contents translation?"**_
 
 This repository tries to make it clear and tries to show you how much money we need to automate and how much sales we need to get from the generated contents in order to run the whole system sustainably. ♻️✨
 
-![Concept](https://user-images.githubusercontent.com/155807/229406231-775fb259-7418-451f-b679-bacd96c36534.png)
+![Concept of picking a diff for example](https://i.gyazo.com/39184a89810daf85ef02e9987facabef.png)
 
 
 <br>
