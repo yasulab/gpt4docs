@@ -9,11 +9,17 @@ This repository tries to make it clear and tries to show you how much money we n
 <br>
 
 ## :chart: Prospective Impact
-[railsguides.jp](https://railsguides.jp/) has finally verified not huge but sustainable business model for documentation project in 2022:
+[railsguides.jp](https://railsguides.jp/) has finally verified not-huge but a sustainable business model for documentation project in late 2022:
 
 [![大型リファレンスを無料で届ける、持続可能なビジネスモデル「協賛プラン」](https://i.gyazo.com/6f35dcb59a954797d6d4e01dfa58ec99.png)](https://speakerdeck.com/yasslab/railsguides-jp-sponsors)
 
-In 2023 or later we will go into **next advanced project**, which automates documentation process as possible by using LLM and Git/GitHub. How much we use LLM model would be a difficult point because it costs, but the verified business model above can afford some budget. So this project, in other words, is going to clarify an appropriate balance and how much we can fully-automate documentation project.
+Now at least Rails documentation/translation project is confirmed and [sponsored as a valued project](https://railsguides.jp/sponsors#examples) by several economically-impacted companies like:
+
+- SmartHR: [T2D3-achived](https://www.businessinsider.jp/post-266878) unicorn startup.
+- Money Forward: A comprehensive financial management platform empowering users with tools for budgeting, expense tracking, and financial planning, all in one seamless digital ecosystem.
+- Coincheck: A user-friendly cryptocurrency exchange platform offering secure trading, wallet services, and diverse digital asset options for both novice and experienced investors.
+
+In 2023 and later, we will go into **next advanced project**, which automates documentation process as possible by using LLM and Git/GitHub. How much we use LLM model would be a difficult point because it costs, but the verified business model above can afford some budget. So this project, in other words, is going to clarify an appropriate balance and how much we can fully-automate documentation project.
 
 <br>
 
