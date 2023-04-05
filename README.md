@@ -19,7 +19,7 @@ Now at least Rails documentation/translation project is confirmed and [sponsored
 - Money Forward: A comprehensive financial management platform empowering users with tools for budgeting, expense tracking, and financial planning, all in one seamless digital ecosystem.
 - Coincheck: A user-friendly cryptocurrency exchange platform offering secure trading, wallet services, and diverse digital asset options for both novice and experienced investors.
 
-In 2023 and later, we will go into **next advanced project**, which automates documentation process as possible by using LLM and Git/GitHub. How much we use LLM model would be a difficult point because it costs, but the verified business model above can afford some budget. So this project, in other words, is going to clarify an appropriate balance and how much we can fully-automate documentation project.
+technically In 2023 and later, we will go into **next advanced project**, which tries to automate documentation process by using the obtained budget and LLM/Git/GitHub. The point would be how much we use LLM to automate in a cost-effective way because it costs. So this project, in other words, is going to clarify an appropriate balance and how much we can automate documentation project technically and sustainably.
 
 <br>
 
