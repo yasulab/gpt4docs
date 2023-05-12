@@ -1,0 +1,52 @@
+From 156f5081fb59d4f4481663366745f7e99135d0cb Mon Sep 17 00:00:00 2001
+From: zzak
+Date: Mon, 8 May 2023 17:57:03 +0900
+Subject: [PATCH] Several fixes for AR Associations guide
+
+---
+ guides/source/association_basics.md | 56 ++++++++++++++++-------------
+ 1 file changed, 32 insertions(+), 24 deletions(-)
+
+diff --git a/guides/source/association_basics.md b/guides/source/association_basics.md
+index c7f011985617f..6592c3ed10aee 100644
+--- a/guides/source/association_basics.md
++++ b/guides/source/association_basics.md
+@@ -5,18 +5,22 @@ Active Record Associations
+ 
+ This guide covers the association features of Active Record.
+ 
+-After reading this guide, you will know:
++After reading this guide, you will know how to:
+ 
+-* How to declare associations between Active Record models.
+-* How to understand the various types of Active Record associations.
+-* How to use the methods added to your models by creating associations.
++* Declare associations between Active Record models.
++* Understand the various types of Active Record associations.
++* Use the methods added to your models by creating associations.
+ 
+ --------------------------------------------------------------------------------
+ 
+ Why Associations?
+ -----------------
+ 
+-In Rails, an _association_ is a connection between two Active Record models. Why do we need associations between models? Because they make common operations simpler and easier in your code. For example, consider a simple Rails application that includes a model for authors and a model for books. Each author can have many books. Without associations, the model declarations would look like this:
++In Rails, an _association_ is a connection between two Active Record models. Why do we need associations between models? Because they make common operations simpler and easier in your code.
++
++For example, consider a simple Rails application that includes a model for authors and a model for books. Each author can have many books.
++
++Without associations, the model declarations would look like this:
+ 
+ ```ruby
+ class Author < ApplicationRecord
+@@ -71,7 +75,9 @@ To learn more about the different types of associations, read the next section o
+ The Types of Associations
+ -------------------------
+ 
+-Rails supports six types of associations:
++Rails supports six types of associations, each with a particular use-case in mind.
++
++Here is a list of all of the supported types with a link to their API docs for more detailed information on how to use them, their method parameters, etc.
+ 
+ * [`belongs_to`][]
+ * [`has_one`][]
