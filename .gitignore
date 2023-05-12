@@ -54,3 +54,8 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+
+# app.rb で生成される内容のため、Git では管理しない
+
+ar_associate_chatgpt.json
+ar_associate_chatgpt.md
